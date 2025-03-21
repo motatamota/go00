@@ -1,12 +1,12 @@
 package piscine
 
 import (
-	"00_01/main/ft"
+	"ex02/ft"
 )
 
 func PrintReverseAlphabet() {
-	for a := 'z'; a >= 'a'; a-- {
-		ft.PrintRune(a)
+	for a := 0; a <= 9; a++ {
+		ft.PrintRune(rune(a + '0'))
 	}
 	ft.PrintRune('\n')
 }
