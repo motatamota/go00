@@ -1,7 +1,7 @@
 package piscine
 
 import (
-	"ex04/ft"
+	"ft"
 )
 
 func PrintComb() {

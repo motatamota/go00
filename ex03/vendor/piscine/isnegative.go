@@ -1,7 +1,7 @@
 package piscine
 
 import (
-	"ex03/ft"
+	"ft"
 )
 
 func IsNegative(nb int) {

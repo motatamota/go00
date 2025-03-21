@@ -1,6 +1,6 @@
 package main
 
-import "ex04/piscine"
+import "piscine"
 
 func main() {
 	piscine.PrintComb()

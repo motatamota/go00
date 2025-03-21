@@ -1,7 +1,7 @@
 package piscine
 
 import (
-	"ex06/ft"
+	"ft"
 )
 
 func Recursive(nb int, pos int, arr []int) {

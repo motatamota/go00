@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ex02/piscine"
+	"piscine"
 )
 
 func main() {

@@ -1,7 +1,7 @@
 package piscine
 
 import (
-	"ex02/ft"
+	"ft"
 )
 
 func PrintReverseAlphabet() {
